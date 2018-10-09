@@ -3,10 +3,10 @@ from textblob import TextBlob
 import re 
 
 def extractTweetsToCSV():
-	consumer_key = 'coZhYb8arkUkRiB7qJq9sHypr'
-	consumer_secret = 'delf1JddbH0nL9obZSIacuByqnVSyGcrLHX4U7VpPItQji3v07'
-	user_access_token = '1045194822359773185-0dCokUUpeYLPmUBRF20b5EdjJh4uHS'
-	user_access_secret = 'sV0fPVgHF3BszVzmkZu0pEg7yaaIbsudhwTV1R7N4uysh'
+	consumer_key = '***************************'
+	consumer_secret = '****************************************************'
+	user_access_token = '**************************************************'
+	user_access_secret = '************************************************'
 
 	auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
 
