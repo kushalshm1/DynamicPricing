@@ -17,4 +17,4 @@ I took information from IMDB to get movie names and then tweets
 
 ## Further improvements
 1. We can also add a feature No._Of_Tweets
-2. Using RNN or LSTMs for classification which is basically Deep Learning approach so we need humungous amount of data, so 3. working on collecting and preprocessing that efficiently
+2. Using RNN or LSTMs for classification which is basically Deep Learning approach so we need humongous amount of data, so 3. working on collecting and preprocessing that efficiently
